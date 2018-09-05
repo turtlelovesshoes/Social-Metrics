@@ -1,6 +1,0 @@
-VPN
-DoH
-New Release
-Support release
-Bug’
-playlistLive
