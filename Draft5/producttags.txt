@@ -1,0 +1,24 @@
+Pocket
+Rocket
+Rust
+SeaMonkey
+Search Engine
+Security
+Servo
+Sync
+Theme
+WebVR
+activity stream
+beta
+cloudflare
+e10s
+esr
+firefox android
+firefox oS
+firefox scout
+iOS
+lockbox
+reality
+thunderbird
+userchrome
+windows phone
