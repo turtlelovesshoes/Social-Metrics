@@ -7,8 +7,20 @@ Draft #highest number is the most recent creating#
 
 #All of the data is private, but is public information on Twitter# 
 
+
+Latest update Draft 6 folder: 
+Week 1 62 Draft count charts included in report
+1. Input -p -t -c -f required
+2. Trending tags are pulled from the load of the first chart
+3. This is data from the first week of a release <2500 for the datatype (furture larger data sets may be problematic)
+4. Action Items: 
+- comparing week to week = new chart needed
+- explore jupiter notebooks and hosting for reports
+- explore word count and positive or negative support experiences
+
+
 Latest update Draft 5 folder: 
-Needed: 
+Needed: (instructions on how to prepare the csv file)
 1. Whole directory
 2. Updated tending tag file the txt should include a new tag created on each line
 3. Export conversations details from Reports section of Reply by Buffer (one day or week of data)
