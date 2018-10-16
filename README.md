@@ -47,4 +47,9 @@ totals ^
 
 Good Luck!
 
+Draft 8 
+This version compares 3 different dumps for 3 weeks to compare Categories, Language and Product volume. It runs with jupyter notebooks and requires it to be running for the nyp file to open in a browser window. The charts are created outside of the notebook. 
+Bugs: need import library to show charts in notebook, need hosting for csv dumps for daily keyword monitoring. 
+
+
 Open Lisence
