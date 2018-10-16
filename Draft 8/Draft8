@@ -1,0 +1,14 @@
+# plot 3 data sets by week and by tags
+# sort
+#Count
+#Create new data structure for each tag association
+#plot
+#plot bins and range
+#plot product and
+# compare weekly a nd plotlanguage seperatly by numbers of volume
+#plot user issue from week to week
+
+import csv
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt

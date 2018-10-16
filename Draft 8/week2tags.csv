@@ -1,0 +1,68 @@
+name,percentage,conversations
+Android,1.13,43
+AoA,2.41,92
+Bookmarks,0.66,25
+Controversial,0.29,11
+CZ,1.26,48
+DE,0.37,14
+EdgePromotion,0.71,27
+EN,45.39,1732
+ES,1.31,50
+Fan Luv,6.24,238
+Firefox Focus,0.39,15
+Firefox iOS,0.66,25
+FR,1.97,75
+Help Me,5.24,200
+Nightly,0.89,34
+NL,6.81,260
+No Action Taken,7.42,283
+Not Fan Luv,1.26,48
+Pending,0.68,26
+Press Release,0.34,13
+PT-BR,0.6,23
+RAM,0.89,34
+reality,1.65,63
+russian,0.76,29
+slow,1,38
+Sync,0.37,14
+TR,2.46,94
+Uncategorized,1.44,55
+Video,0.81,31
+WebDev,0.42,16
+Windows,1.23,47
+Social Campaign,0.24,9
+contains_photo,0.24,9
+FireTV,0.21,8
+Servo,0.16,6
+Enterprise,0.13,5
+Politics,0.13,5
+Add-ons,0.13,5
+Crashes,0.13,5
+Privacy,0.13,5
+Containers,0.13,5
+NetNeutrality,0.1,4
+IT,0.1,4
+Cert Issues,0.1,4
+cookies,0.1,4
+Accessibility,0.08,3
+Third Party Issues,0.08,3
+VPN,0.08,3
+Klar,0.05,2
+PL,0.05,2
+Focus,0.05,2
+Security,0.05,2
+Tor,0.05,2
+hate tweets,0.05,2
+chinese,0.05,2
+MacOS,0.03,1
+Solved,0.03,1
+Search Engine,0.03,1
+Community,0.03,1
+scam,0.03,1
+DoH Cloudflare,0.03,1
+ChromeDefection,0.03,1
+Pocket,0.03,1
+Ignore,0.03,1
+webcompat,0.03,1
+playlistLive,0.03,1
+thunderbird,0.03,1
