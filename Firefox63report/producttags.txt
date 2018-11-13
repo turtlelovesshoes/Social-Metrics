@@ -1,0 +1,40 @@
+Pocket
+Rocket
+Rust
+SeaMonkey
+Search Engine
+Security
+Servo
+Sync
+Theme
+WebVR
+activity stream
+beta
+cloudflare
+e10s
+esr
+Firefox Android
+Firefox OS
+Firefox Scout
+iOS
+lockbox
+reality
+thunderbird
+userchrome
+windows phone
+Mobile
+WebAssembly
+Firefox Focus
+Test Pilot
+Android
+Firefox Notes
+FireTV
+Thunderbird
+Firefox iOS
+monitor
+Add-ons
+Klar
+Sync
+Firefox Lite
+Monitor
+monitor

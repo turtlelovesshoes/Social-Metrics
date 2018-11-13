@@ -1,0 +1,69 @@
+AV
+Accessibility
+Add-ons
+Advance by Firefox
+Audio
+Bookmarks
+Bug
+Bug Test
+CPU
+Cert Issues
+Compatibility
+Containers
+Crashes
+Donation
+Extensions
+Flash
+New Release
+Phishing
+Problems
+RAM
+Spellcheck
+Suggestions
+Support Release
+Third Party Issues
+Trending Issue
+Twitter Issues
+VPN
+Video
+Windows Mobile
+YouTube
+cookies
+dataloss
+feature request
+fonts
+malware
+masterpassword
+network
+password
+performance
+plug-ins
+screen reader
+slow
+stylish
+sumoday
+support feedback
+support love
+tabs
+webcompat
+website
+DoH Cloudflare
+RSS
+VPN
+DoH
+New Release
+Support release
+Bug
+playlistLive
+upload
+dataloss
+esr
+Search Engine
+cookies
+Enterprise
+userchrome 
+comparison
+Accessibility
+UI
+performance
+password
